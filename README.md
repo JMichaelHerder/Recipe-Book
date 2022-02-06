@@ -3,6 +3,7 @@
 
 This Recipe Book Tool will read in recipes from a text file in the format of:
 
+***
 _Recipe Name_
 
 - _UnitA Ingredient 1_
@@ -18,6 +19,7 @@ _Recipe Name_
 
    ...  
 3. _Direction X_
+***
 
 ## Acknowledgements
 
