@@ -17,7 +17,7 @@ _Recipe Name_
 
   ...
   
-X. _Direction X_ 
+3. _Direction X_
 
 ## Acknowledgements
 
