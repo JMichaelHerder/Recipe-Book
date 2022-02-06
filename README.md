@@ -16,6 +16,7 @@ _Recipe Name_
 2. _Direction 2_
 
   ...
+  
 X. _Direction X_ 
 
 ## Acknowledgements
