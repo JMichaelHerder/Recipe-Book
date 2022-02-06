@@ -5,11 +5,11 @@ This Recipe Book Tool will read in recipes from a text file in the format of:
 
 _Recipe Name_
 
-_- UnitX Ingredient 1_
-_- UnitY Ingredient 2_
+- _UnitX Ingredient 1_
+- _UnitY Ingredient 2_
 
-_1. Direction 1_
-_2. Direction 2_
+1. _Direction 1_
+2. _Direction 2_
 
 
 ## Acknowledgements
