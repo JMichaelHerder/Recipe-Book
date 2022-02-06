@@ -14,6 +14,7 @@ _Recipe Name_
 
 1. _Direction 1_
 2. _Direction 2_
+
   ...
 X. _Direction X_ 
 
