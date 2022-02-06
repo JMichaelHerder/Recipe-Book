@@ -5,8 +5,8 @@ This Recipe Book Tool will read in recipes from a text file in the format of:
 
 _Recipe Name_
 
-*_UnitX Ingredient 1_
-*_UnitY Ingredient 2_
+-_UnitX Ingredient 1_
+-_UnitY Ingredient 2_
 ...
 
 
