@@ -8,19 +8,13 @@ _Recipe Name_
 
 - _UnitA Ingredient 1_
 - _UnitB Ingredient 2_
-
-  ...
-  
-- _UnitZ Ingredient X_
+- _etc._
 
 
 
 1. _Direction 1_
 2. _Direction 2_
-
-   ...  
-   
-3. _Direction X_
+3. _etc._
 ***
 
 ## Acknowledgements
